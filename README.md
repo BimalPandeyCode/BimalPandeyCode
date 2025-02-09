@@ -19,6 +19,6 @@ I'm a passionate developer skilled in the MERN stack and React Native. I love ex
 
 ## Get in Touch
 
-- **LinkedIn:** [[linkedin.com/in/bimalpandey](https://www.linkedin.com/in/bimalpandey)](https://www.linkedin.com/in/bimal-pandey-740104208/)
+- **LinkedIn:** [[linkedin.com/in/bimalpandey]](https://www.linkedin.com/in/bimal-pandey-740104208/)
 
 Let's connect and collaborate on exciting projects!
