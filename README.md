@@ -17,8 +17,6 @@ I'm a passionate developer skilled in the MERN stack and React Native. I love ex
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BimalPandeyCode&layout=compact&theme=radical)
 
-## Recent Contributions
-
 ## Get in Touch
 
 - **LinkedIn:** [[linkedin.com/in/bimalpandey]](https://www.linkedin.com/in/bimal-pandey-740104208/)
