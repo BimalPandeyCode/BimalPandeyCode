@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi there, I'm Bimal Pandey 👋
 
-<!--
-**BimalPandeyCode/BimalPandeyCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Full-Stack & Mobile App Developer**
 
-Here are some ideas to get you started:
+I'm a passionate developer skilled in the MERN stack and React Native. I love exploring new technologies and continuously enhancing my skill set.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 **Currently Learning:** .Net Framework.
+- 💬 **Ask me about:** JavaScript, React, Node.js, Express, MongoDB, and React Native.
+- 📫 **How to reach me:** [bimalpandey32@gmail.com](mailto:bimalpandey32@gmail.com)
+- ⚡ **Fun fact:** I enjoy solving complex algorithms and have a knack for optimizing code performance.
+
+## GitHub Stats
+
+![Bimal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BimalPandeyCode&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BimalPandeyCode&layout=compact&theme=radical)
+
+## Recent Contributions
+
+## Get in Touch
+
+- **LinkedIn:** [[linkedin.com/in/bimalpandey](https://www.linkedin.com/in/bimalpandey)](https://www.linkedin.com/in/bimal-pandey-740104208/)
+
+Let's connect and collaborate on exciting projects!
