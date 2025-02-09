@@ -12,6 +12,7 @@ I'm a passionate developer skilled in the MERN stack and React Native. I love ex
 ## GitHub Stats
 
 ![Bimal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BimalPandeyCode&show_icons=true&theme=radical)
+![Bimal's GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=BimalPandeyCode&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BimalPandeyCode&layout=compact&theme=radical)
 
